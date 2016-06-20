@@ -19,6 +19,6 @@ If your question contains code, make sure you:
 
 1. Create a reduced test case (in Codepen or Github)
 
-[Read this article]() if you need help in crafting your questions. 
+[Read this article](http://zellwk.com/blog/asking-questions/) if you need help in crafting your questions. 
 
 
